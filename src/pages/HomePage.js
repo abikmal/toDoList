@@ -50,7 +50,7 @@ export default function HomePage() {
             color="secondary"
             onClick={addDate}
           >
-            Go
+            Welcome!
           </Button>
         </div>
       </div>

@@ -8,6 +8,7 @@ const Routes = () => {
     <Router>
       <Switch>
         <Route exact path={baseURL + '/'} component={HomePage} />
+        <Route exact path={baseURL + '/hello'} component={HomePage} />
       </Switch>
     </Router>
   );
